@@ -1,6 +1,6 @@
 ## Демо
 
-[https://iarus.github.io/size-calc/public/](http://localhost:5000)
+[https://iarus.github.io/size-calc/public/](https://iarus.github.io/size-calc/public/)
 
 
 ## Начало
