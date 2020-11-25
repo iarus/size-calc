@@ -78,7 +78,7 @@
     </label>
     <label class="input_block-item">
       <p class="input_block-item_title">Ширина</p>
-      <InputNumber class="input_block-item_input_block" value={data.cube.width} step="0.1" min="0" />
+      <InputNumber class="input_block-item_input_block" bind:value={data.cube.width} step="0.1" min="0" />
     </label>
     <label class="input_block-item">
       <p class="input_block-item_title">Высота</p>
