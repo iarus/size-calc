@@ -1,25 +1,28 @@
-## Get started
+## Демо
 
-Install the dependencies...
+[https://iarus.github.io/size-calc/public/](http://localhost:5000)
+
+
+## Начало
+
+Установить зависимости
 
 ```bash
 cd size-calc
 npm install
 ```
 
-...then start [Rollup](https://rollupjs.org):
+
+## Запустить dev сервер
 
 ```bash
 npm run dev
 ```
 
-Navigate to [localhost:5000](http://localhost:5000). You should see your app running.
+Перейти по ссылке [localhost:5000](http://localhost:5000).
 
-By default, the server will only respond to requests from localhost. To allow connections from other computers, edit the `sirv` commands in package.json to include the option `--host 0.0.0.0`.
 
-## Building and running in production mode
-
-To create an optimised version of the app:
+## Сборка приложения
 
 ```bash
 npm run build
