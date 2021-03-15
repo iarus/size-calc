@@ -1,3 +1,7 @@
+Калькулятор по расчету занимаемого объема
+
+--
+
 ## Демо
 
 [https://iarus.github.io/size-calc/public/](https://iarus.github.io/size-calc/public/)
